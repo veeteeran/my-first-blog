@@ -1,2 +1,2 @@
 # my-first-blog
-README for django girls tutuorial
+README for djangofest tutuorial
